@@ -1,10 +1,9 @@
 # Wizzard
 
-### Wizzard для Windows 10 и 11 (64 бит)
+### Wizzard для Windows 10 и 11, 64 бит
 
-1. [Скачай Wizzard-Windows-x64.zip](https://github.com/Sladkyi/wizzard-downloads/releases/latest/download/Wizzard-Windows-x64.zip).
-2. Извлеки весь ZIP в новую папку и дважды щёлкни **Play.cmd**.
+**Уже установлена игра?** Один раз скачай маленький [Wizzard-Launcher.zip](https://github.com/Sladkyi/wizzard-downloads/releases/latest/download/Wizzard-Launcher.zip), извлеки его в отдельную папку и запусти новый **Play.cmd**.
 
-Первый запуск распакует около 7 ГБ в `%LOCALAPPDATA%\Wizzard`. Сохранения из предыдущей версии подхватятся автоматически.
+**Впервые устанавливаешь Wizzard?** Скачай [полный архив](https://github.com/Sladkyi/wizzard-downloads/releases/latest/download/Wizzard-Windows-x64.zip), извлеки его и запусти **Play.cmd**.
 
-**Updates.url** открывает свежий релиз. **Uninstall.cmd** освобождает место, удаляя установленные сборки после подтверждения. Сохранения и настройки остаются в `%APPDATA%\Wizzard-Godot`.
+Дальше запускай этот **Play.cmd**. Он проверяет обновления и скачивает патч, когда выходит новая версия. При установке патча может временно понадобиться ещё около 7 ГБ. Сохранения подхватываются автоматически.
